@@ -1,2 +1,4 @@
 openai
 click
+colorama
+jinja2
